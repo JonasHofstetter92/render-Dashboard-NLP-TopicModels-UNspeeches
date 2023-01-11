@@ -1,0 +1,10 @@
+dash==2.7.1
+dash_bootstrap_components==0.12.2
+dash_core_components==2.0.0
+dash_html_components==2.0.0
+gensim==3.8.3
+numpy==1.20.3
+pandas==1.2.4
+pyLDAvis==3.3.1
+gunicorn
+dash-tools
