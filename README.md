@@ -1,7 +1,7 @@
-##Explore Trained NLP Topic Models Built on Speeches Held by G20-Country Representatives at the UN General Assembly
+## Explore Trained NLP Topic Models Built on Speeches Held by G20-Country Representatives at the UN General Assembly
 - Link to Web Dashboard application: https://nlp-topicmodels-unspeeches.onrender.com
 
-####Build and Deploy:
+#### Build and Deploy:
 
 **1)** Refer to file: src > README_run_locally.md to infer how to edit and run the app locally
 in Pycharm/Spyder before deployment to the web via DashTools & render.
@@ -17,7 +17,7 @@ P.S.: Fantastic work on your 'Charming Data' youtube channel, Adam!
 Thank you for all those amazing plotly dash tutorials! 
 :)
 
-####Context:
+#### Context:
 
 I built this app in my Modern Data Analytics course at KU Leuven, Belgium,
 as part of my M.Sc. studies in Statistics and Data Science.

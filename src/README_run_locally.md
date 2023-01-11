@@ -1,4 +1,4 @@
-##Run this app locally via e.g. PyCharm or Spyder:
+## Run this app locally via e.g. PyCharm or Spyder:
 
 **1)** To be able to run the app locally you might have to add the following 
 file paths to python:
