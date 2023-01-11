@@ -30,7 +30,6 @@ parso==0.7.0
 pathlib==1.0.1
 pathspec==0.7.0
 plotly==4.10.0
-pyLDAvis==3.3.1
 pywin32==227
 pywin32-ctypes==0.2.0
 PyYAML==5.4.1
